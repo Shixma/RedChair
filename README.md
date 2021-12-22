@@ -20,7 +20,8 @@ different keys to avoid detection.
 
 See list for key names: [tobu.co/redchair](https://tobu.co/redchair)
 
-Want to use a modified button? (ctrl, shift etc)  Place hotkey prefixes. See [tobu.co/redchair#modifier](https://tobu.co/redchair#modifier)
+Want to use a modified button? (ctrl, shift etc)  
+Place hotkey prefixes. See [tobu.co/redchair#modifier](https://tobu.co/redchair#modifier)
 
 ###### Hotkeys:
 `[Delete]` to run or stop the AFKer
