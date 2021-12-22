@@ -3,7 +3,7 @@
 Before running the AFKer `[Delete]` please tab into the game,
 the run/stop hotkey only works when the game is the active window.
 
-Once its running you can now use the rest of your PC how you usually would!
+Once its running you can now tab out and use the rest of your PC how you usually would!
 
 
 Keys that open menus will stop you from getting kicked,
