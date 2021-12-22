@@ -2,9 +2,6 @@
 ; - Press Home to pause and resume the script.
 ; - Press F1 to close the script altogether. You can also press Home to pause, then close AHK from the system tray.
 ; -----------------------------------------------------------------------------------------------------------------
-; - Key list is surrounded by ///////////s
-; - To edit key list append to the list using the same format and change the "O" to what ever key you want to press
-; - e.g. ["C", "O"] becomes ["C", "O", "X"]
 	
 	bindsPath := A_ScriptDir "\binds.txt"
 	mainTarget := null
