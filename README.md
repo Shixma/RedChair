@@ -28,9 +28,9 @@ different keys to avoid detection.
 
 
 ###### Known bugs:
-
 Spamming the run/stop toggle will cause the program to hitch.
 To fix you must find the program in the system tray to close it.
+
 
 
 ###### Warning
