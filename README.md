@@ -19,7 +19,7 @@ different keys to avoid detection.
 3. Press Save and Reload button
 
 See list for key names: [tobu.co/redchair](https://tobu.co/redchair)  
-Want to use a modified button? Place hotkey prefixes before the keybind. See [tobu.co/redchair#modifier](https://tobu.co/redchair)
+Want to use a modified button? Place hotkey prefixes before the keybind. See [tobu.co/redchair#modifier](https://tobu.co/redchair#modifier)
 
 ###### Hotkeys:
 `[Delete]` to run or stop the AFKer
