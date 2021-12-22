@@ -11,7 +11,7 @@ different keys to avoid detection.
 `[F1]` and `[Home]` hotkeys will work when tabbed out.
 
 ###### To edit key binds that will be used:
-1. Edit through the textbox or create binds.txt (case sensitive) 
+1. Edit through the textbox or create and edit binds.txt (case sensitive) 
    in the same folder as the .exe
 2. Enter each key, seperate each one with a space
 3. Press Save and Reload button
