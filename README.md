@@ -16,7 +16,7 @@ different keys to avoid detection.
 2. Enter each key, seperate each one with a space
 3. Press Save and Reload button
 
-- See list for key names: tobu.co/redchair
+- See list for key names: [tobu.co/redhchair](https://tobu.co/redchair)
 
 ###### Hotkeys:
 `[Delete]` to run or stop the AFKer
