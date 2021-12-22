@@ -20,7 +20,9 @@ different keys to avoid detection.
 
 ###### Hotkeys:
 `[Delete]` to run or stop the AFKer
+
 `[F1]` to close the program
+
 `[Home]` to reload the program
 
 
