@@ -3,6 +3,8 @@
 Before running the AFKer `[Delete]` please tab into the game,
 the run/stop hotkey only works when the game is the active window.
 
+Once its running you can now use the rest of your PC how you usually would!
+
 
 Keys that open menus will stop you from getting kicked,
 no need to move around or anything, be sure to use multiple 
@@ -32,7 +34,7 @@ different keys to avoid detection.
 ###### What does it do?
 RedChair will press a random button from a list of your choice. It has a random press length and presses the button between a random time limit to help make it look less suspicious. After all, pressing the same button, for the same length every exact 10 seconds is pretty obvious indication of a bot 🙃
 
-All simulated key presses are flagged as synthetic on windows, only way to get around it and have key presses look real is to send inputs from a driver using something like [AutoHotInterception](https://github.com/evilC/AutoHotInterception) which has the possibility of soft-locking your PC and requires another keyboard. I'm also not sure its possible to have the key presses run in the background of a specific program.
+All simulated key presses are flagged as synthetic on windows, only way to get around it and have key presses look real is to send inputs from a driver using something like [AutoHotInterception](https://github.com/evilC/AutoHotInterception) which has the possibility of soft-locking your PC and requires another keyboard. I'm also not sure its possible to have the key presses run in the background of a specific program like this allows.
 
 
 
