@@ -20,7 +20,7 @@ different keys to avoid detection.
 
 See list for key names: [tobu.co/redchair](https://tobu.co/redchair)
 
-Want to use a modified button? (ctrl, shift etc)  
+Want to use a modified button? (ctrl+e, shift+q, etc)  
 Place hotkey prefixes. See [tobu.co/redchair#modifier](https://tobu.co/redchair#modifier)
 
 ###### Hotkeys:
